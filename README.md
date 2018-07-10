@@ -1,2 +1,2 @@
-# hello-girl
-the girl is beautiful!
+# hello-boy
+the boy is beautiful!
